@@ -2,10 +2,16 @@ body{
     background-color: black;
     text-align: center;
 }
+.cartao{
+    width: 50%;
+    background-color: white;
+    margin: auto;
+
+}
 img{
     width: 720px;
 }
 p,h1,h2{
-    color: yellow;
+    color: yellowgreen;
 }
 
