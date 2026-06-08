@@ -10,9 +10,12 @@ body{
     margin: auto;
     border-radius: 100px;
     border-style: double;
+    margin-top: 50px;
 }
 img{
-    width: 754px;
+    margin-top: 50px;
+    width: 100%;
+    border-radius: 50px;
 }
 p,h1,h2{
     color: blue;
